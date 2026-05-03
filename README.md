@@ -1,4 +1,4 @@
-![qimam_dashboard.jpeg]
+![Dashboard Preview](qimam_dashboard.jpeg)
  
  🚀 Turning Raw Data into Executive Decisions | Qimam Al-Saudia Dashboard 📊 
 
@@ -23,6 +23,3 @@ With 88% of payments successfully collected, the financial health is strong. Tra
 
 Building a beautiful dashboard is great, but building a tool that dictates the next marketing campaign and operational shift is where the true value lies. 💡
 
-What do you guys think of this Dark Mode color scheme? Let me know in the comments! 👇
-
-#DataAnalytics #DataVisualization #DashboardDesign #Excel #BusinessIntelligence
